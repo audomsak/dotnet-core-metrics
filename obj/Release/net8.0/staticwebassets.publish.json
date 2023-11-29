@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PmptwrrEU2qxTuBZLvi/SCvfCrcOIYAW+mZYM+fG2nQ=",
+  "Source": "MonitoringMicroservice",
+  "BasePath": "_content/MonitoringMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/MonitoringMicroservice
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/appsettings.json
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/MonitoringMicroservice.dll
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/MonitoringMicroservice.deps.json
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/MonitoringMicroservice.runtimeconfig.json
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/MonitoringMicroservice.pdb
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/Prometheus.NetStandard.dll
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/Prometheus.AspNetCore.dll
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dom/Repo/MonitoringMicroservice/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
